@@ -48,6 +48,11 @@ if __name__ == "__main__":
                 for result in results_json:
                     language = result["language"]   
                     name = result["name"] 
+                    if "-000" in name:
+                        source = "Flatiron"
+                    else:
+                        source = "TBD"
+
                     isForked = result["fork"]
 
                     if repos.get(language) is None:
@@ -62,19 +67,16 @@ if __name__ == "__main__":
         for key in repos.keys():
             print(f"{key}: {len(repos[key])} repos")
             for repo in repos[key]:
-                print(f"\t{repo}")
+                print(f"\t{repo}, {source}")
         sys.stdout = original_stdout
     print(f"Script end: {datetime.datetime.now()}")
 
 ## OAuth help?
 ## https://stackoverflow.com/questions/17622439/how-to-use-github-api-token-in-python-for-requesting
 ## code from old version
-                #     name = result["name"]
                 # created_at = result["created_at"]
                 # description = result["description"]
-                # language = result["language"]
                 # pushed_at = result["pushed_at"]
-                # fork = result["fork"]
 
                 # if ((name.find('-000') == -1) and (language is not None)):
                 #     print(f"{name}\nCreated: {created_at}\nDescription: {description}\nLanguage: {language}\nPushed: {pushed_at}\nFork: {fork}\n")
