@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Kristen\_Projects\Python\githubapi-practice\env"
+VIRTUAL_ENV="C:\Users\Kristen\_Projects\Python\githubapi-checkrepos\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

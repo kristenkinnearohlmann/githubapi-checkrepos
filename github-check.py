@@ -1,5 +1,6 @@
 import datetime
 import requests
+import sys
 
 def get_user_repos(gh_api_url,user_nm,page_nbr):
     if gh_api_url != "":
@@ -55,10 +56,14 @@ if __name__ == "__main__":
                         repos[language].append({"name":name,"isForked":isForked})
 
                 page_nbr += 1
-    for key in repos.keys():
-        print(f"{key}: {len(repos[key])} repos")
-        for repo in repos[key]:
-            print(f"\t{repo}")
+    original_stdout = sys.stdout
+    with open('repos.txt', 'w') as f:
+        sys.stdout = f
+        for key in repos.keys():
+            print(f"{key}: {len(repos[key])} repos")
+            for repo in repos[key]:
+                print(f"\t{repo}")
+        sys.stdout = original_stdout
     print(f"Script end: {datetime.datetime.now()}")
 
 ## OAuth help?
