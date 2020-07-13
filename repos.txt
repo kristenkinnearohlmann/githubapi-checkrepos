@@ -1,159 +1,44 @@
 None: 13 repos
-	{'name': '100-days-of-code', 'isForked': True}, Flatiron
-	{'name': 'flatiron-test-repo', 'isForked': False}, Flatiron
-	{'name': 'getting-started', 'isForked': True}, Flatiron
-	{'name': 'git-basics-lab', 'isForked': False}, Flatiron
-	{'name': 'git-version-control-getting-code-with-git-v-000', 'isForked': True}, Flatiron
-	{'name': 'kristenkinnearohlmann', 'isForked': False}, Flatiron
-	{'name': 'layouts-grids-code-along-v-000', 'isForked': True}, Flatiron
-	{'name': 'learn-co-sandbox', 'isForked': False}, Flatiron
-	{'name': 'Lets-Tackle-SQL', 'isForked': False}, Flatiron
-	{'name': 'mplsjrdevs', 'isForked': True}, Flatiron
-	{'name': 'oo-my-pets-v-000', 'isForked': True}, Flatiron
-	{'name': 'sopel', 'isForked': True}, Flatiron
-	{'name': 'testrepository', 'isForked': False}, Flatiron
+	{'name': '100-days-of-code', 'isForked': True, 'source': 'TBD'}
+	{'name': 'flatiron-test-repo', 'isForked': False, 'source': 'TBD'}
+	{'name': 'getting-started', 'isForked': True, 'source': 'TBD'}
+	{'name': 'git-basics-lab', 'isForked': False, 'source': 'TBD'}
+	{'name': 'kristenkinnearohlmann', 'isForked': False, 'source': 'TBD'}
+	{'name': 'learn-co-sandbox', 'isForked': False, 'source': 'TBD'}
+	{'name': 'Lets-Tackle-SQL', 'isForked': False, 'source': 'TBD'}
+	{'name': 'mplsjrdevs', 'isForked': True, 'source': 'TBD'}
+	{'name': 'sopel', 'isForked': True, 'source': 'TBD'}
+	{'name': 'testrepository', 'isForked': False, 'source': 'TBD'}
 Ruby: 91 repos
-	{'name': 'a-tag-with-href-attributes-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'anagram-detector-v-000', 'isForked': True}, Flatiron
-	{'name': 'apples-and-holidays-v-000', 'isForked': True}, Flatiron
-	{'name': 'array-CRUD-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'array-methods-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'badges-and-schedules-v-000', 'isForked': True}, Flatiron
-	{'name': 'building-nested-hashes-v-000', 'isForked': True}, Flatiron
-	{'name': 'cartoon-collections-v-000', 'isForked': True}, Flatiron
-	{'name': 'classes-and-instances-lab-ruby-v-000', 'isForked': True}, Flatiron
-	{'name': 'collections_practice-v-000', 'isForked': True}, Flatiron
-	{'name': 'countdown-to-midnight-v-000', 'isForked': True}, Flatiron
-	{'name': 'debugging-with-pry-v-000', 'isForked': True}, Flatiron
-	{'name': 'deli-counter-v-000', 'isForked': True}, Flatiron
-	{'name': 'experiencing-html-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'fe-zetsy-v-000', 'isForked': True}, Flatiron
-	{'name': 'first-html-tag-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'first-ide-lab-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'first-lab-001-prework-web', 'isForked': True}, Flatiron
-	{'name': 'Flatiron-Ruby-practice', 'isForked': False}, Flatiron
-	{'name': 'flatiron-test-intro-ooruby', 'isForked': False}, Flatiron
-	{'name': 'greeting-cli-v-000', 'isForked': True}, Flatiron
-	{'name': 'hash-iteration-v-000', 'isForked': True}, Flatiron
-	{'name': 'hello-world-ruby-v-000', 'isForked': True}, Flatiron
-	{'name': 'instance-methods-lab-ruby-v-000', 'isForked': True}, Flatiron
-	{'name': 'interpolation-super-power-v-000', 'isForked': True}, Flatiron
-	{'name': 'intro-to-tdd-rspec-and-learn-v-000', 'isForked': True}, Flatiron
-	{'name': 'introduction-to-css-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'key-for-min-value-v-000', 'isForked': True}, Flatiron
-	{'name': 'Learn-To-Program', 'isForked': False}, Flatiron
-	{'name': 'looping-loop-v-000', 'isForked': True}, Flatiron
-	{'name': 'looping-times-v-000', 'isForked': True}, Flatiron
-	{'name': 'looping-while-until-v-000', 'isForked': True}, Flatiron
-	{'name': 'method-arguments-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'method-scope-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'my-collect-v-000', 'isForked': True}, Flatiron
-	{'name': 'my-each-v-000', 'isForked': True}, Flatiron
-	{'name': 'my-first-hash-v-000', 'isForked': True}, Flatiron
-	{'name': 'my_all-v-000', 'isForked': True}, Flatiron
-	{'name': 'my_find_code_along-v-000', 'isForked': True}, Flatiron
-	{'name': 'nested-hash-iteration-code-along-v-000', 'isForked': True}, Flatiron
-	{'name': 'oo-barking-dog-v-000', 'isForked': True}, Flatiron
-	{'name': 'oo-basics-v-000', 'isForked': True}, Flatiron
-	{'name': 'oo-basics-with-class-constants-v-000', 'isForked': True}, Flatiron
-	{'name': 'oo-cash-register-v-000', 'isForked': True}, Flatiron
-	{'name': 'oo-counting-sentences-v-000', 'isForked': True}, Flatiron
-	{'name': 'oo-email-parser-v-000', 'isForked': True}, Flatiron
-	{'name': 'oo-meowing-cat-v-000', 'isForked': True}, Flatiron
-	{'name': 'oo-tic-tac-toe-v-000', 'isForked': True}, Flatiron
-	{'name': 'operators-v-000', 'isForked': True}, Flatiron
-	{'name': 'other-hash-methods-code-along-v-000', 'isForked': True}, Flatiron
-	{'name': 'oxford-comma-v-000', 'isForked': True}, Flatiron
-	{'name': 'parrot-ruby-v-000', 'isForked': True}, Flatiron
-	{'name': 'prework-videos-intro-to-tests-v-000', 'isForked': True}, Flatiron
-	{'name': 'prime-ruby-v-000', 'isForked': True}, Flatiron
-	{'name': 'regex-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'reverse-each-word-v-000', 'isForked': True}, Flatiron
-	{'name': 'rspec-fizzbuzz-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-advanced-class-methods-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-class-variables-and-class-methods-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-collaborating-objects-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-gets-input-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-instance-variables-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-intro-to-hashes-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-lecture-reading-error-messages-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-object-attributes-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-object-initialize-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-objects-belong-to-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-objects-has-many-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'ruby-puppy-v-000', 'isForked': True}, Flatiron
-	{'name': 'Ruby-The-Hard-Way', 'isForked': False}, Flatiron
-	{'name': 'ruby-variable-assignment-v-000', 'isForked': True}, Flatiron
-	{'name': 'say-hello-ruby-v-000', 'isForked': True}, Flatiron
-	{'name': 'school-domain-v-000', 'isForked': True}, Flatiron
-	{'name': 'simple-nesting-v-000', 'isForked': True}, Flatiron
-	{'name': 'speaking-grandma-v-000', 'isForked': True}, Flatiron
-	{'name': 'square_array-v-000', 'isForked': True}, Flatiron
-	{'name': 'tic-tac-toe-rb-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-1-welcome-rb-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-10-current-player-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-2-board-rb-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-3-display_board-example-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-4-display-board-rb-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-5-move-rb-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-6-position-taken-rb-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-7-valid-move-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-8-turn-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-9-play-loop-v-000', 'isForked': True}, Flatiron
-	{'name': 'ttt-game-status-v-000', 'isForked': True}, Flatiron
-	{'name': 'well-formed-html-document-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'yield-and-blocks-v-000', 'isForked': True}, Flatiron
-	{'name': 'yield-and-return-values-v-000', 'isForked': True}, Flatiron
+	{'name': 'first-lab-001-prework-web', 'isForked': True, 'source': 'TBD'}
+	{'name': 'Flatiron-Ruby-practice', 'isForked': False, 'source': 'TBD'}
+	{'name': 'flatiron-test-intro-ooruby', 'isForked': False, 'source': 'TBD'}
+	{'name': 'Learn-To-Program', 'isForked': False, 'source': 'TBD'}
+	{'name': 'Ruby-The-Hard-Way', 'isForked': False, 'source': 'TBD'}
 HTML: 15 repos
-	{'name': 'adding-responsive-features-v-000', 'isForked': True}, Flatiron
-	{'name': 'animal-save-v-000', 'isForked': True}, Flatiron
-	{'name': 'box-style-codealong-v-000', 'isForked': True}, Flatiron
-	{'name': 'Codealong-Creating-Columns-v-000', 'isForked': True}, Flatiron
-	{'name': 'css-issue-bot-9000-v-000', 'isForked': True}, Flatiron
-	{'name': 'CSS-Styling-v-000', 'isForked': True}, Flatiron
-	{'name': 'exceptional-realty', 'isForked': False}, Flatiron
-	{'name': 'html-issue-bot-9000-v-000', 'isForked': True}, Flatiron
-	{'name': 'html-map-contact-form-code-along-v-000', 'isForked': True}, Flatiron
-	{'name': 'html5-semantic-containers-code-along-v-000', 'isForked': True}, Flatiron
-	{'name': 'html5-video-embed-code-along-v-000', 'isForked': True}, Flatiron
-	{'name': 'json-tutorial', 'isForked': False}, Flatiron
-	{'name': 'responsive-example', 'isForked': False}, Flatiron
-	{'name': 'riyadh-blog-v-000', 'isForked': True}, Flatiron
-	{'name': 'Spoon-Knife', 'isForked': True}, Flatiron
+	{'name': 'exceptional-realty', 'isForked': False, 'source': 'TBD'}
+	{'name': 'json-tutorial', 'isForked': False, 'source': 'TBD'}
+	{'name': 'responsive-example', 'isForked': False, 'source': 'TBD'}
+	{'name': 'Spoon-Knife', 'isForked': True, 'source': 'TBD'}
 Python: 6 repos
-	{'name': 'boring-stuff', 'isForked': False}, Flatiron
-	{'name': 'githubapi-checkrepos', 'isForked': False}, Flatiron
-	{'name': 'Python-The-Hard-Way', 'isForked': False}, Flatiron
-	{'name': 'schoolofvoiceover', 'isForked': False}, Flatiron
-	{'name': 'web-crawler', 'isForked': False}, Flatiron
-	{'name': 'wee-rest-api', 'isForked': False}, Flatiron
+	{'name': 'boring-stuff', 'isForked': False, 'source': 'TBD'}
+	{'name': 'githubapi-checkrepos', 'isForked': False, 'source': 'TBD'}
+	{'name': 'Python-The-Hard-Way', 'isForked': False, 'source': 'TBD'}
+	{'name': 'schoolofvoiceover', 'isForked': False, 'source': 'TBD'}
+	{'name': 'web-crawler', 'isForked': False, 'source': 'TBD'}
+	{'name': 'wee-rest-api', 'isForked': False, 'source': 'TBD'}
 C#: 9 repos
-	{'name': 'c-sharpcorner', 'isForked': False}, Flatiron
-	{'name': 'Database-Connectivity', 'isForked': False}, Flatiron
-	{'name': 'First-Slack-App', 'isForked': False}, Flatiron
-	{'name': 'HelloWorld', 'isForked': False}, Flatiron
-	{'name': 'HelloWorld2', 'isForked': False}, Flatiron
-	{'name': 'MvcMovie', 'isForked': False}, Flatiron
-	{'name': 'myApp', 'isForked': False}, Flatiron
-	{'name': 'PowerShell', 'isForked': True}, Flatiron
-	{'name': 'programming-csharp', 'isForked': False}, Flatiron
+	{'name': 'c-sharpcorner', 'isForked': False, 'source': 'TBD'}
+	{'name': 'Database-Connectivity', 'isForked': False, 'source': 'TBD'}
+	{'name': 'First-Slack-App', 'isForked': False, 'source': 'TBD'}
+	{'name': 'HelloWorld', 'isForked': False, 'source': 'TBD'}
+	{'name': 'HelloWorld2', 'isForked': False, 'source': 'TBD'}
+	{'name': 'MvcMovie', 'isForked': False, 'source': 'TBD'}
+	{'name': 'myApp', 'isForked': False, 'source': 'TBD'}
+	{'name': 'PowerShell', 'isForked': True, 'source': 'TBD'}
+	{'name': 'programming-csharp', 'isForked': False, 'source': 'TBD'}
 CSS: 5 repos
-	{'name': 'css-graffiti-override-v-000', 'isForked': True}, Flatiron
-	{'name': 'css-kitten-wheelbarrow-v-000', 'isForked': True}, Flatiron
-	{'name': 'hs-zhw-shoes-layout-v-000', 'isForked': True}, Flatiron
-	{'name': 'html-album-cover-v-000', 'isForked': True}, Flatiron
-	{'name': 'my-little-rainbow-v-000', 'isForked': True}, Flatiron
 JavaScript: 13 repos
-	{'name': 'exceptional-realty-bootstrapped', 'isForked': False}, Flatiron
-	{'name': 'freeCodeCamp', 'isForked': True}, Flatiron
-	{'name': 'git-basics-lab-v-000', 'isForked': True}, Flatiron
-	{'name': 'javascript-arithmetic-lab-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'javascript-fix-the-scope-lab-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'javascript-intro-to-functions-lab-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'js-from-dom-to-node-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'js-functions-lab-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'js-if-else-files-lab-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'js-node-practice-lab-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'js-what-is-a-test-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'js-what-is-a-test-lab-bootcamp-prep-000', 'isForked': True}, Flatiron
-	{'name': 'kristenkinnearohlmann.github.io', 'isForked': False}, Flatiron
+	{'name': 'exceptional-realty-bootstrapped', 'isForked': False, 'source': 'TBD'}
+	{'name': 'freeCodeCamp', 'isForked': True, 'source': 'TBD'}
+	{'name': 'kristenkinnearohlmann.github.io', 'isForked': False, 'source': 'TBD'}

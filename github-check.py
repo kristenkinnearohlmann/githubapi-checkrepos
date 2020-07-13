@@ -48,6 +48,7 @@ if __name__ == "__main__":
                 for result in results_json:
                     language = result["language"]   
                     name = result["name"] 
+
                     if "-000" in name:
                         source = "Flatiron"
                     else:
@@ -56,18 +57,19 @@ if __name__ == "__main__":
                     isForked = result["fork"]
 
                     if repos.get(language) is None:
-                        repos[language] = [{"name":name,"isForked":isForked}]
+                        repos[language] = [{"name":name,"isForked":isForked,"source":source}]
                     else:
-                        repos[language].append({"name":name,"isForked":isForked})
+                        repos[language].append({"name":name,"isForked":isForked,"source":source})
 
                 page_nbr += 1
     original_stdout = sys.stdout
     with open('repos.txt', 'w') as f:
         sys.stdout = f
         for key in repos.keys():
-            print(f"{key}: {len(repos[key])} repos")
+            print(f"{key}: {len(repos[key])} repos")     
             for repo in repos[key]:
-                print(f"\t{repo}, {source}")
+                if repo["source"] != "Flatiron":
+                    print(f"\t{repo}")
         sys.stdout = original_stdout
     print(f"Script end: {datetime.datetime.now()}")
 
