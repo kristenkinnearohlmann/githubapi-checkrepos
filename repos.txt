@@ -1,43 +1,43 @@
 None: 13 repos
-	{'name': '100-days-of-code', 'id': 115746158, 'isForked': True, 'source': 'TBD'}
-	{'name': 'flatiron-test-repo', 'id': 184357844, 'isForked': False, 'source': 'TBD'}
-	{'name': 'getting-started', 'id': 149180379, 'isForked': True, 'source': 'TBD'}
-	{'name': 'git-basics-lab', 'id': 184359056, 'isForked': False, 'source': 'TBD'}
-	{'name': 'kristenkinnearohlmann', 'id': 278485067, 'isForked': False, 'source': 'TBD'}
-	{'name': 'learn-co-sandbox', 'id': 136070054, 'isForked': False, 'source': 'TBD'}
-	{'name': 'Lets-Tackle-SQL', 'id': 181180511, 'isForked': False, 'source': 'TBD'}
-	{'name': 'mplsjrdevs', 'id': 221314837, 'isForked': True, 'source': 'TBD'}
-	{'name': 'sopel', 'id': 245568905, 'isForked': True, 'source': 'TBD'}
-	{'name': 'testrepository', 'id': 115648619, 'isForked': False, 'source': 'TBD'}
+	name: 100-days-of-code,id: 115746158,isForked: True,source: TBD
+	name: flatiron-test-repo,id: 184357844,isForked: False,source: TBD
+	name: getting-started,id: 149180379,isForked: True,source: TBD
+	name: git-basics-lab,id: 184359056,isForked: False,source: TBD
+	name: kristenkinnearohlmann,id: 278485067,isForked: False,source: TBD
+	name: learn-co-sandbox,id: 136070054,isForked: False,source: TBD
+	name: Lets-Tackle-SQL,id: 181180511,isForked: False,source: TBD
+	name: mplsjrdevs,id: 221314837,isForked: True,source: TBD
+	name: sopel,id: 245568905,isForked: True,source: TBD
+	name: testrepository,id: 115648619,isForked: False,source: TBD
 Ruby: 91 repos
-	{'name': 'first-lab-001-prework-web', 'id': 115565841, 'isForked': True, 'source': 'TBD'}
-	{'name': 'Flatiron-Ruby-practice', 'id': 181116061, 'isForked': False, 'source': 'TBD'}
-	{'name': 'flatiron-test-intro-ooruby', 'id': 184506283, 'isForked': False, 'source': 'TBD'}
-	{'name': 'Learn-To-Program', 'id': 178620081, 'isForked': False, 'source': 'TBD'}
-	{'name': 'Ruby-The-Hard-Way', 'id': 177903398, 'isForked': False, 'source': 'TBD'}
+	name: first-lab-001-prework-web,id: 115565841,isForked: True,source: TBD
+	name: Flatiron-Ruby-practice,id: 181116061,isForked: False,source: TBD
+	name: flatiron-test-intro-ooruby,id: 184506283,isForked: False,source: TBD
+	name: Learn-To-Program,id: 178620081,isForked: False,source: TBD
+	name: Ruby-The-Hard-Way,id: 177903398,isForked: False,source: TBD
 HTML: 15 repos
-	{'name': 'exceptional-realty', 'id': 115685042, 'isForked': False, 'source': 'TBD'}
-	{'name': 'json-tutorial', 'id': 178964049, 'isForked': False, 'source': 'TBD'}
-	{'name': 'responsive-example', 'id': 178482979, 'isForked': False, 'source': 'TBD'}
-	{'name': 'Spoon-Knife', 'id': 115565295, 'isForked': True, 'source': 'TBD'}
+	name: exceptional-realty,id: 115685042,isForked: False,source: TBD
+	name: json-tutorial,id: 178964049,isForked: False,source: TBD
+	name: responsive-example,id: 178482979,isForked: False,source: TBD
+	name: Spoon-Knife,id: 115565295,isForked: True,source: TBD
 C#: 9 repos
-	{'name': 'c-sharpcorner', 'id': 179198491, 'isForked': False, 'source': 'TBD'}
-	{'name': 'Database-Connectivity', 'id': 177413439, 'isForked': False, 'source': 'TBD'}
-	{'name': 'First-Slack-App', 'id': 177414053, 'isForked': False, 'source': 'TBD'}
-	{'name': 'HelloWorld', 'id': 177412669, 'isForked': False, 'source': 'TBD'}
-	{'name': 'HelloWorld2', 'id': 177413179, 'isForked': False, 'source': 'TBD'}
-	{'name': 'MvcMovie', 'id': 177413770, 'isForked': False, 'source': 'TBD'}
-	{'name': 'myApp', 'id': 178321889, 'isForked': False, 'source': 'TBD'}
-	{'name': 'PowerShell', 'id': 155413109, 'isForked': True, 'source': 'TBD'}
-	{'name': 'programming-csharp', 'id': 178755263, 'isForked': False, 'source': 'TBD'}
+	name: c-sharpcorner,id: 179198491,isForked: False,source: TBD
+	name: Database-Connectivity,id: 177413439,isForked: False,source: TBD
+	name: First-Slack-App,id: 177414053,isForked: False,source: TBD
+	name: HelloWorld,id: 177412669,isForked: False,source: TBD
+	name: HelloWorld2,id: 177413179,isForked: False,source: TBD
+	name: MvcMovie,id: 177413770,isForked: False,source: TBD
+	name: myApp,id: 178321889,isForked: False,source: TBD
+	name: PowerShell,id: 155413109,isForked: True,source: TBD
+	name: programming-csharp,id: 178755263,isForked: False,source: TBD
 CSS: 5 repos
 JavaScript: 13 repos
-	{'name': 'exceptional-realty-bootstrapped', 'id': 142161491, 'isForked': False, 'source': 'TBD'}
-	{'name': 'freeCodeCamp', 'id': 153956277, 'isForked': True, 'source': 'TBD'}
-	{'name': 'kristenkinnearohlmann.github.io', 'id': 112619795, 'isForked': False, 'source': 'TBD'}
+	name: exceptional-realty-bootstrapped,id: 142161491,isForked: False,source: TBD
+	name: freeCodeCamp,id: 153956277,isForked: True,source: TBD
+	name: kristenkinnearohlmann.github.io,id: 112619795,isForked: False,source: TBD
 Python: 5 repos
-	{'name': 'githubapi-checkrepos', 'id': 278772615, 'isForked': False, 'source': 'TBD'}
-	{'name': 'schoolofvoiceover', 'id': 129665856, 'isForked': False, 'source': 'TBD'}
-	{'name': 'study-python', 'id': 279193887, 'isForked': False, 'source': 'TBD'}
-	{'name': 'web-crawler', 'id': 217642555, 'isForked': False, 'source': 'TBD'}
-	{'name': 'wee-rest-api', 'id': 278772111, 'isForked': False, 'source': 'TBD'}
+	name: githubapi-checkrepos,id: 278772615,isForked: False,source: TBD
+	name: schoolofvoiceover,id: 129665856,isForked: False,source: TBD
+	name: study-python,id: 279193887,isForked: False,source: TBD
+	name: web-crawler,id: 217642555,isForked: False,source: TBD
+	name: wee-rest-api,id: 278772111,isForked: False,source: TBD

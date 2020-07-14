@@ -65,10 +65,14 @@ if __name__ == "__main__":
     with open('repos.txt', 'w') as f:
         sys.stdout = f
         for key in repos.keys():
-            print(f"{key}: {len(repos[key])} repos")     
+            print(f"{key}: {len(repos[key])} repos")  
             for repo in repos[key]:
                 if repo["source"] != "Flatiron":
-                    print(f"\t{repo}")
+                    repo_info = ""
+                    for item in repo:
+                        repo_info += f"{item}: {repo[item]}, "
+                    repo_info = repo_info[:-2]
+                    print(f"\t{repo_info}\f")
         sys.stdout = original_stdout
     print(f"Script end: {datetime.datetime.now()}")
 
