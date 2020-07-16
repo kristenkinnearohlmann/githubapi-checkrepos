@@ -14,9 +14,8 @@ Ruby: 91 repos
 	name: flatiron-test-intro-ooruby, id: 184506283, isForked: False, source: TBD
 	name: Learn-To-Program, id: 178620081, isForked: False, source: TBD
 	name: Ruby-The-Hard-Way, id: 177903398, isForked: False, source: TBD
-HTML: 15 repos
+HTML: 14 repos
 	name: exceptional-realty, id: 115685042, isForked: False, source: TBD
-	name: json-tutorial, id: 178964049, isForked: False, source: TBD
 	name: responsive-example, id: 178482979, isForked: False, source: TBD
 	name: Spoon-Knife, id: 115565295, isForked: True, source: TBD
 C#: 9 repos
@@ -41,3 +40,4 @@ Python: 5 repos
 	name: study-python, id: 279193887, isForked: False, source: TBD
 	name: web-crawler, id: 217642555, isForked: False, source: TBD
 	name: wee-rest-api, id: 278772111, isForked: False, source: TBD
+Total repo count: 150. Last updated: 2020-07-15 21:11:54.695964

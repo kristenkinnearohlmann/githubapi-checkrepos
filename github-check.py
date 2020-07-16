@@ -28,6 +28,7 @@ if __name__ == "__main__":
 
     page_nbr = 1
     repos = {}
+    repo_count = 0
     is_success = True
     while is_success:
         results = get_user_repos(gh_api_url, user_nm, page_nbr)
@@ -42,7 +43,7 @@ if __name__ == "__main__":
             else:
                 # print(results_json)
                 print(f"Status: {results.status_code}. Page {page_nbr}: {len(results_json)} records.")
-
+                repo_count += len(results_json)
                 for result in results_json:
                     language = result["language"]   
                     name = result["name"] 
@@ -73,9 +74,13 @@ if __name__ == "__main__":
                         repo_info += f"{item}: {repo[item]}, "
                     repo_info = repo_info[:-2]
                     print(f"\t{repo_info}\f")
+        print(f"\nTotal repo count: {repo_count}. Last updated: {datetime.datetime.now()}")
         sys.stdout = original_stdout
     print(f"Script end: {datetime.datetime.now()}")
 
+
+## Write and Read Dictionary To JSON file in Python | Python Tutorial
+## https://www.youtube.com/watch?v=kdyIpmduhOM
 ## OAuth help?
 ## https://stackoverflow.com/questions/17622439/how-to-use-github-api-token-in-python-for-requesting
 
