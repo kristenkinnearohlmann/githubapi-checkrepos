@@ -76,6 +76,7 @@ if __name__ == "__main__":
                     print(f"\t{repo_info}\f")
         print(f"\nTotal repo count: {repo_count}. Last updated: {datetime.datetime.now()}")
         sys.stdout = original_stdout
+    f.close()
     print(f"Script end: {datetime.datetime.now()}")
 
 
