@@ -8,18 +8,17 @@ None: 12 repos
 	name: mplsjrdevs, id: 221314837, isForked: True, source: TBD
 	name: sopel, id: 245568905, isForked: True, source: TBD
 	name: testrepository, id: 115648619, isForked: False, source: TBD
-Ruby: 91 repos
+Ruby: 90 repos
 	name: first-lab-001-prework-web, id: 115565841, isForked: True, source: TBD
 	name: Flatiron-Ruby-practice, id: 181116061, isForked: False, source: TBD
 	name: flatiron-test-intro-ooruby, id: 184506283, isForked: False, source: TBD
-	name: Learn-To-Program, id: 178620081, isForked: False, source: TBD
-	name: Ruby-The-Hard-Way, id: 177903398, isForked: False, source: TBD
+	name: study-ruby, id: 280311699, isForked: False, source: TBD
 HTML: 14 repos
 	name: exceptional-realty, id: 115685042, isForked: False, source: TBD
 	name: responsive-example, id: 178482979, isForked: False, source: TBD
 	name: Spoon-Knife, id: 115565295, isForked: True, source: TBD
-C#: 9 repos
-	name: c-sharpcorner, id: 179198491, isForked: False, source: TBD
+CSS: 5 repos
+C#: 8 repos
 	name: Database-Connectivity, id: 177413439, isForked: False, source: TBD
 	name: First-Slack-App, id: 177414053, isForked: False, source: TBD
 	name: HelloWorld, id: 177412669, isForked: False, source: TBD
@@ -27,8 +26,7 @@ C#: 9 repos
 	name: MvcMovie, id: 177413770, isForked: False, source: TBD
 	name: myApp, id: 178321889, isForked: False, source: TBD
 	name: PowerShell, id: 155413109, isForked: True, source: TBD
-	name: programming-csharp, id: 178755263, isForked: False, source: TBD
-CSS: 5 repos
+	name: study-csharp, id: 280576700, isForked: False, source: TBD
 JavaScript: 14 repos
 	name: exceptional-realty-bootstrapped, id: 142161491, isForked: False, source: TBD
 	name: freeCodeCamp, id: 153956277, isForked: True, source: TBD
@@ -41,4 +39,4 @@ Python: 5 repos
 	name: web-crawler, id: 217642555, isForked: False, source: TBD
 	name: wee-rest-api, id: 278772111, isForked: False, source: TBD
 
-Total repo count: 150. Last updated: 2020-07-16 21:43:05.012532
+Total repo count: 148. Last updated: 2020-07-17 22:52:56.358752
